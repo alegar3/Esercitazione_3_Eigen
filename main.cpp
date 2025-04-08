@@ -1,5 +1,5 @@
 #include <iostream>
-#include <Eigen>
+#include <Eigen/Dense>
 #include <cmath>
 
 
